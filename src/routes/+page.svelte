@@ -2,7 +2,7 @@
     let videos = [];
     let searchTerm = '';
     let searchValue = '';
-    const APIKey = 'AIzaSyAIf3dNZ7Pk5ecv4FK6K48B2S1HoAYFHW8'
+    // const APIKey = 'AIzaSyAIf3dNZ7Pk5ecv4FK6K48B2S1HoAYFHW8'
     
     async function handleNewSearch(searchTerm) {
         if (searchTerm == '') {
